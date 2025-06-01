@@ -47,7 +47,7 @@
 ---
 
 ### ⏱️ Coding Activity (WakaTime)
-[![WakaTime Chart](https://wakatime.com/share/@mub4ris/be92317b-f2cb-4608-b077-bbd47f24c5b5.png)](https://wakatime.com/)
+[![WakaTime Chart](https://wakatime.com/share/@d85159fc-7b84-4d82-afb4-f64559999fab/2455e904-b78d-4578-bbb8-6a77139dbab5.svg)](https://wakatime.com/)
 
 ---
 
